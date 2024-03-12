@@ -1,0 +1,7 @@
+.background_image {
+  background-image: url("https://images.alphacoders.com/133/1330376.png");
+  height: calc(100vh - 56px);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
